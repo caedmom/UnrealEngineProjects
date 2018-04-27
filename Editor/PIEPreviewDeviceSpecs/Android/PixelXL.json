@@ -1,0 +1,34 @@
+{
+  "DevicePlatform": "Android",
+  "ResolutionX": 1440,
+  "ResolutionY": 2560,
+  "PPI": 534,
+  "AndroidProperties": {
+    "GLVersion": "OpenGL ES 3.2 V@145.0 (GIT@Idb2b4cb785)",
+    "VulkanVersion": "0.0.0",
+    "AndroidVersion": "7.1.2",
+    "DeviceMake": "Google",
+    "DeviceModel": "Pixel XL",
+    "GPUFamily": "Adreno (TM) 530",
+    "GLES2RHIState": {
+      "MaxShadowDepthBufferSizeX": 4096,
+      "MaxShadowDepthBufferSizeY": 4096,
+      "MaxTextureDimensions": 16384,
+      "MaxCubeTextureDimensions": 16384,
+      "SupportsRenderTargetFormat_PF_G8": true,
+      "SupportsRenderTargetFormat_PF_FloatRGBA": true,
+      "SupportsMultipleRenderTargets": true,
+      "SupportsInstancing": true
+    },
+    "GLES31RHIState": {
+      "MaxShadowDepthBufferSizeX": 4096,
+      "MaxShadowDepthBufferSizeY": 4096,
+      "MaxTextureDimensions": 16384,
+      "MaxCubeTextureDimensions": 16384,
+      "SupportsRenderTargetFormat_PF_G8": true,
+      "SupportsRenderTargetFormat_PF_FloatRGBA": true,
+      "SupportsMultipleRenderTargets": true,
+      "SupportsInstancing": true
+    }
+  }
+}

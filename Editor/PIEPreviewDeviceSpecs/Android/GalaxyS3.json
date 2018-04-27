@@ -1,0 +1,24 @@
+{
+  "DevicePlatform": "Android",
+  "ResolutionX": 720,
+  "ResolutionY": 1280,
+  "PPI": 306,
+  "AndroidProperties": {
+    "GLVersion": "OpenGL ES 2.0",
+    "VulkanVersion": "0.0.0",
+    "AndroidVersion": 4.3,
+    "DeviceMake": "samsung",
+    "DeviceModel": "GT-I9300",
+    "GPUFamily": "Mali-400 MP",
+    "GLES2RHIState": {
+      "MaxShadowDepthBufferSizeX": 2048,
+      "MaxShadowDepthBufferSizeY": 2048,
+      "MaxTextureDimensions": 2048,
+      "MaxCubeTextureDimensions": 512,
+      "SupportsRenderTargetFormat_PF_G8": false,
+      "SupportsRenderTargetFormat_PF_FloatRGBA": false,
+      "SupportsMultipleRenderTargets": false,
+      "SupportsInstancing": false
+    }
+  }
+}

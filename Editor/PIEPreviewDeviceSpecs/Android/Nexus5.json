@@ -1,0 +1,24 @@
+{
+  "DevicePlatform": "Android",
+  "ResolutionX": 1080,
+  "ResolutionY": 1920,
+  "PPI": 445,
+  "AndroidProperties": {
+    "GLVersion": "OpenGL ES 3.0 V@127.0 AU@  (GIT@I96aee987eb)",
+    "VulkanVersion": "0.0.0",
+    "AndroidVersion": "6.0.1",
+    "DeviceMake": "LGE",
+    "DeviceModel": "Nexus 5",
+    "GPUFamily": "Adreno (TM) 330",
+    "GLES2RHIState": {
+      "MaxShadowDepthBufferSizeX": 4096,
+      "MaxShadowDepthBufferSizeY": 4096,
+      "MaxTextureDimensions": 4096,
+      "MaxCubeTextureDimensions": 4096,
+      "SupportsRenderTargetFormat_PF_G8": true,
+      "SupportsRenderTargetFormat_PF_FloatRGBA": true,
+      "SupportsMultipleRenderTargets": true,
+      "SupportsInstancing": true
+    }
+  }
+}
